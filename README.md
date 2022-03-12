@@ -1,22 +1,26 @@
 # Financial Statements Generator using XBRL
 
-## Environment
+## Environment and packages
 
-Python 3.9.10
+Python 3.10.0
+pandas 1.3.4
+lxml 4.6.4
 
 ## Preliminary works...
 Download the compiled XBRL files set first and save them into the same folder with this code 
 
+Just use the default name as the folder name while decompression 
+
 https://mops.twse.com.tw/mops/web/t203sb02 
 
-Just use the default name as the folder name while decompression 
+
 
 ## With this function one can generate the financial statement according to...
 1. Companies
-2. Year and Quarter
-3. Statement Types
+2. Years and quarters
+3. Statement types
 
-## Supported Statement Types...
+## Supported statement types...
 
 1. Income Statements
 2. Comprehensive Income Statements
