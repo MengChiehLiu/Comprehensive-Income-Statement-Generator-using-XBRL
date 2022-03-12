@@ -1,4 +1,4 @@
-# Comprehensive-Income-Statement-Generator-using-XBRL
+# Financial Statements Generator using XBRL
 
 Download the compiled XBRL file set first
 
