@@ -1,7 +1,7 @@
 # Financial Statements Generator using XBRL
 
 ## Environment and packages
-Python 3.10
+Python 3.10  
 pandas 1.3.4  
 lxml 4.6.4  
 
