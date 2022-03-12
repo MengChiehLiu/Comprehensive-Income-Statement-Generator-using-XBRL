@@ -3,7 +3,9 @@
 ## Environment and packages
 
 Python 3.10.0
+
 pandas 1.3.4
+
 lxml 4.6.4
 
 ## Preliminary works...
