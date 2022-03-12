@@ -5,10 +5,8 @@
 Python 3.9.10
 
 ## Preliminary works...
-Download the compiled XBRL files set first and save them into the same folder with this code
-
+Download the compiled XBRL files set first and save them into the same folder with this code\n
 https://mops.twse.com.tw/mops/web/t203sb02
-
 Just use the default name as the folder name while decompression
 
 ## With this function one can generate the financial statement according to...
