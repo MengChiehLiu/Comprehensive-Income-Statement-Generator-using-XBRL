@@ -16,7 +16,7 @@ https://mops.twse.com.tw/mops/web/t203sb02
 3. Statement types
 
 ## Supported statement types...
-1. Income Statements
-2. Comprehensive Income Statements
+1. Income Statement
+2. Comprehensive Income Statement
 3. Balance Sheet
 4. Statement of Cash Flow
